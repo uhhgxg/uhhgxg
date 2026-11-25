@@ -1,63 +1,87 @@
-```text
-╔══════════════════════════════════════════════════════════╗
-║   uhhgxg · ORBIT CONTROL                                  ║
-║   LLM Application Development — Agent / RAG / MCP         ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-`STATUS: ONLINE` · `MISSION: BUILD AI APPS FROM 0 TO 1` · `TRAJECTORY: AGENT ENGINEERING`
-
-## // 发射台 · About
-
-- 计算机科学与技术本科在读（2028 届）
-- 方向：**大模型应用开发** —— Agent 工具调用、记忆与上下文管理、RAG、基于 Benchmark 的 Agent 评测
-- 独立完成 6 个项目，经历过从需求分析到功能实现与运行验证的完整流程
-- 常用 Claude Code、Codex 做工程化开发
-
-## // 推进系统 · Tech Stack
-
-![Python](https://img.shields.io/badge/Python-101B31?style=flat-square&logo=python&logoColor=EDB675)
-![TypeScript](https://img.shields.io/badge/TypeScript-101B31?style=flat-square&logo=typescript&logoColor=EDB675)
-![LangChain](https://img.shields.io/badge/LangChain-101B31?style=flat-square&logo=langchain&logoColor=EDB675)
-![FastAPI](https://img.shields.io/badge/FastAPI-101B31?style=flat-square&logo=fastapi&logoColor=EDB675)
-![Node.js](https://img.shields.io/badge/Node.js-101B31?style=flat-square&logo=nodedotjs&logoColor=EDB675)
-![Docker](https://img.shields.io/badge/Docker-101B31?style=flat-square&logo=docker&logoColor=EDB675)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-101B31?style=flat-square&logo=postgresql&logoColor=EDB675)
-![Redis](https://img.shields.io/badge/Redis-101B31?style=flat-square&logo=redis&logoColor=EDB675)
-![Git](https://img.shields.io/badge/Git-101B31?style=flat-square&logo=git&logoColor=EDB675)
-![Linux](https://img.shields.io/badge/Linux-101B31?style=flat-square&logo=linux&logoColor=EDB675)
-
-Python · TypeScript · LangChain / LangGraph · FastAPI · MCP · 向量数据库
-
-## // 当前任务 · Current Mission
-
-- **电商智能运营协同 Agent**（2026.06 – 至今）：面向电商运营场景的多 Agent 协同系统，工具调用带白名单与人工审批，Langfuse 做评测与可观测。
-
-## // 任务载荷 · Payloads
-
-| 项目 | 说明 |
-| --- | --- |
-| [澜序 Lanxu](https://github.com/uhhgxg/lanxu) | 自托管、Pi Agent 驱动的多渠道智能体工作台：把 Agent、工作区、记忆、工具、渠道与自动化任务组织在同一个可控运行环境中（Web / 桌面 / 飞书 / Telegram 共用同一 Session） |
-| [Orbit Agents](https://github.com/uhhgxg/orbit-agents) | TypeScript / Electron / Bun 的 Agent 桌面工具：管理多个 AI 会话、连接 MCP 服务与本地文件、查看工具调用与文件修改 |
-| [TutorAI](https://github.com/uhhgxg/tutorai) | AI 智能学习助手：基于 RAG 的学习辅导系统（FastAPI + LangChain + ChromaDB） |
-
-## // 轨道协作记录 · Open Source
-
-累计 **12 个 PR 已合并**，涉及 5 个上游项目：
-
-- **langchain4j/langchain4j** — [#6581](https://github.com/langchain4j/langchain4j/pull/6581) · [#6503](https://github.com/langchain4j/langchain4j/pull/6503) · [#6486](https://github.com/langchain4j/langchain4j/pull/6486) · [#6467](https://github.com/langchain4j/langchain4j/pull/6467)
-- **langgenius/dify** — [#46733](https://github.com/langgenius/dify/pull/46733) · [#45156](https://github.com/langgenius/dify/pull/45156) · [#44684](https://github.com/langgenius/dify/pull/44684) · [#43460](https://github.com/langgenius/dify/pull/43460)
-- **PrefectHQ/fastmcp** — [#6315](https://github.com/PrefectHQ/fastmcp/pull/6315)（redirect-URI 规范化安全修复）· [#5205](https://github.com/PrefectHQ/fastmcp/pull/5205)
-- **bytedance/deer-flow** — [#6455](https://github.com/bytedance/deer-flow/pull/6455)
-- **Tencent/WeKnora** — [#4562](https://github.com/Tencent/WeKnora/pull/4562)
-
-## // 遥测数据 · Telemetry
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=uhhgxg&show_icons=true&count_private=true&bg_color=101B31&title_color=EDB675&text_color=EAF2FF&icon_color=EDB675&border_color=354A6B" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uhhgxg&layout=compact&bg_color=101B31&title_color=EDB675&text_color=EAF2FF&border_color=354A6B" alt="Top languages" />
+  <img src="./profile-banner.svg" width="100%" alt="uhhgxg — AI Agent Engineering · 海边雏菊插画横幅" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=uhhgxg&background=101B31&ring=EDB675&fire=EDB675&currStreakLabel=EDB675&sideLabels=EAF2FF&dates=B9C9DF&currStreakNum=EAF2FF&sideNums=EAF2FF" alt="GitHub streak" />
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&amp;weight=600&amp;size=22&amp;duration=3600&amp;pause=1400&amp;color=3B91C8&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=52&amp;lines=Building+useful%2C+reliable+AI+applications." alt="Building useful, reliable AI applications." />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Class%20of-2028-2563eb?style=for-the-badge" alt="2028 届在校生" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Agent-0f766e?style=for-the-badge" alt="专注 AI Agent" />
+  <img src="https://img.shields.io/badge/Interests-RAG%20%7C%20MCP-397ac4?style=for-the-badge" alt="关注 RAG 与 MCP" />
+</p>
+
+## 👋 关于我
+
+你好，我是 **uhhgxg**，一名计算机科学与技术专业本科生（2028 届），目前专注于 **AI Agent 应用开发**。
+
+我关注 Agent 工具调用、记忆与上下文管理、RAG，以及用可复现的评测验证系统表现。我喜欢把想法落成可以运行和演示的应用，也持续通过开源协作练习工程开发。
+
+## 🛠️ 技术与创作工具
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,react,fastapi,nodejs&amp;theme=light&amp;perline=5" alt="Python, TypeScript, React, FastAPI, Node.js" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=docker,postgres,redis,git,linux&amp;theme=light&amp;perline=5" alt="Docker, PostgreSQL, Redis, Git, Linux" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-Research%20%26%20RAG-2f7897?style=flat-square" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-Agent%20Workflows-2f7897?style=flat-square" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/MCP-Tool%20Integration-2f7897?style=flat-square" alt="MCP" />
+</p>
+
+---
+
+## 🚀 项目实践
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/uhhgxg/lanxu">澜序 Lanxu</a></strong><br>
+      自托管的 Pi Agent 多渠道工作台，围绕 Agent、工作区、记忆、工具、渠道与自动化任务组织运行环境。
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/uhhgxg/orbit-agents">Orbit Agents</a></strong><br>
+      TypeScript / Electron / Bun 桌面工具，用于管理 AI 会话、连接 MCP 与本地文件，并查看工具调用和文件修改。
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/uhhgxg/tutorai">TutorAI</a></strong><br>
+      基于 FastAPI、LangChain 与 ChromaDB 的 RAG 学习助手。
+    </td>
+    <td width="50%" valign="top">
+      <strong>电商智能运营协同 Agent</strong><br>
+      在做的多 Agent 场景项目，关注工具白名单、人工审批、评测与可观测性。
+    </td>
+  </tr>
+</table>
+
+## 🔧 开源协作
+
+持续参与 AI 工具链与 Agent 生态的开源协作，主要关注工具调用、MCP、上下文管理和执行可靠性。
+
+- **langchain4j** — [#6581](https://github.com/langchain4j/langchain4j/pull/6581) · [#6503](https://github.com/langchain4j/langchain4j/pull/6503) · [#6486](https://github.com/langchain4j/langchain4j/pull/6486) · [#6467](https://github.com/langchain4j/langchain4j/pull/6467)
+- **Dify** — [#46733](https://github.com/langgenius/dify/pull/46733) · [#45156](https://github.com/langgenius/dify/pull/45156) · [#44684](https://github.com/langgenius/dify/pull/44684) · [#43460](https://github.com/langgenius/dify/pull/43460)
+- **FastMCP** — [#5205](https://github.com/PrefectHQ/fastmcp/pull/5205)
+- **deer-flow** — [#6455](https://github.com/bytedance/deer-flow/pull/6455)
+- **WeKnora** — [#4562](https://github.com/Tencent/WeKnora/pull/4562)
+
+[查看 GitHub 上已合并的 PR](https://github.com/search?q=is%3Apr+author%3Auhhgxg+is%3Amerged&type=pullrequests)
+
+## 📊 GitHub 数据
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=uhhgxg&amp;show_icons=true&amp;bg_color=f3f9fc&amp;title_color=26779b&amp;text_color=34566a&amp;icon_color=3b91c8&amp;border_color=c6e3ee" alt="GitHub 统计" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uhhgxg&amp;layout=compact&amp;bg_color=f3f9fc&amp;title_color=26779b&amp;text_color=34566a&amp;border_color=c6e3ee" alt="常用语言" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=uhhgxg&amp;background=f3f9fc&amp;ring=3b91c8&amp;fire=3b91c8&amp;currStreakLabel=26779b&amp;sideLabels=34566a&amp;dates=66869a&amp;currStreakNum=34566a&amp;sideNums=34566a" alt="GitHub 连续贡献统计" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/uhhgxg"><img src="https://img.shields.io/badge/GitHub-uhhgxg-26779b?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="访问 GitHub 主页" /></a>
 </p>
